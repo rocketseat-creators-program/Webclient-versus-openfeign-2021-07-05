@@ -7,6 +7,7 @@ Atualmente integrar com outras APIs é uma tarefa bastante comum, precisamos env
 Nesta aula você irá aprender a fazer isso de duas formas extremamente eficientes e saber como e quando utilizar cada uma delas, assista essa aula e saiba como utilizar o Spring Cloud Open Feign e como utilizar o WebClient do WebFlux para consumir dados da famosa API aberta do Star Wars!
 
 
+[slides](https://github.com/rocketseat-experts-club/Webclient-versus-openfeign-2021-07-05/blob/master/Feign%20%20x%20WebClient.pdf)
 
 ## Expert
 
